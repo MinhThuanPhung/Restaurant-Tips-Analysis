@@ -1,5 +1,6 @@
 # Restaurant-Tips-Analysis
-![Uploading tải xuống (2).jpg…]()
+
+![tải xuống (2)](https://github.com/user-attachments/assets/991197b5-db59-451a-bf43-7f7d417fb701)
 
 ## Brief description
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given
