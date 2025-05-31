@@ -43,3 +43,12 @@ Insight
 12. Customer tends to go to restaurant on sat (the highest number of customer) and it could be the reason for the chance to receive the tip max compared with other days.
 13. People tip higher in dinner time (average tip is 12% higher than luch)which has highest tip is 10 dola while in lunch, the highest tip is over 6 dola. However,in luch,  nobody tipped under 1 dola, the lowest is  1.25 dola.
 14. in dinner, men arrived restaurant more than a half of women and number of people eat in dinner is 2.5 higher than lunch, it maybe affect to the tip amount (in dinner, tip is higher)
+
+## Actions
+
+- Restaurant can consider to make a more comfortable place for smoker to increase their satisfaction and it also reduce bad effect to people does like smocke
+- Tailor upselling and service strategies for male diners, especially during dinner since Men tend to tip 8% more and are the majority of dinner customers. A focused approach could increase high-value tips
+- Assign the most experienced servers and provide additional staff coverage on weekends—especially Saturday dinner and Sunday lunch. Since These times see the highest tips and customer volume, so better service could increase both tips and customer satisfaction
+- Offer special promotions or loyalty programs during dinner time, especially for larger groups or repeat customers since Dinner tips are 12% higher on average; increasing traffic during this period can boost revenue and tips.
+- Provide promotion or quick-service options during lunch to increase revenue since this time has lowest customer and It also increases the ability to tip.
+
