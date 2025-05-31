@@ -11,6 +11,21 @@ It includes details about the tips given to restaurant staff, such as the total 
 You can load data from the following link: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 ## The main goals
 The main goals is gettting insights base on gender, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size
+
+## visualize 
+
+![image](https://github.com/user-attachments/assets/df1ad080-a773-466d-bee0-5d74a0bf7014)
+
+![image](https://github.com/user-attachments/assets/3c48391e-ae1d-46a1-9b03-2e6b2ef3da67)
+
+![image](https://github.com/user-attachments/assets/410699e5-934a-48c3-8a46-17eec80a6f7b)
+
+
+![image](https://github.com/user-attachments/assets/5beebe04-ea4e-4df5-8742-3507adf29cb0)
+
+
+
+
 ## Results
 1. The minimum tip is 1$ and the highest tip is 10$. The mean of tip is 2.998279$ while it is 3.00871$  for smokers and only 2.991854$ for non-smokers which 5% lower compared with smocker
 2. Base on data, smokers tends to tip higher and more than non-smoker
